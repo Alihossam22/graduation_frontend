@@ -1,0 +1,11 @@
+abstract class order_Details_delivery_forall_States{}
+
+
+class order_Details_delivery_initail_forall_States  extends order_Details_delivery_forall_States{}
+
+
+
+abstract class order_Details_delivery_pending_States{}
+
+
+class order_Details_delivery_initail_pending_States  extends order_Details_delivery_pending_States{}
